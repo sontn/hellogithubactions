@@ -15,7 +15,7 @@ public class HellogithubactionsApplication {
 
 	@GetMapping("/")
 	public String hello() {
-		return "Hello World!";
+		return "Good morning World!";
 	}
 
 }
